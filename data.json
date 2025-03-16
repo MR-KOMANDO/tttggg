@@ -1,0 +1,18 @@
+[
+    {
+        "q": "ما هي هذه الدولة؟",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Egypt.svg",
+        "Correct_Answer": "مصر",
+        "Answer1": "مصر",
+        "Answer2": "السعودية",
+        "Answer3": "الجزائر"
+    },
+    {
+        "q": "ما هي هذه الدولة؟",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Flag_of_France.svg",
+        "Correct_Answer": "فرنسا",
+        "Answer1": "إسبانيا",
+        "Answer2": "فرنسا",
+        "Answer3": "إيطاليا"
+    }
+]
